@@ -1,0 +1,13 @@
+﻿  main.cpp
+c:\users\диана\source\repos\lab3.sf\main\main.cpp(42): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\диана\source\repos\lab3.sf\main\main.cpp(59): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\диана\source\repos\lab3.sf\main\list.cpp(379): warning C4018: <: несоответствие типов со знаком и без знака
+  c:\users\диана\source\repos\lab3.sf\main\list.cpp(378): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\диана\source\repos\lab3.sf\main\main.cpp(63): note: выполняется компиляция ссылки на экземпляр шаблон функции "bool List<char>::compare_str(std::string,std::string,int &)"
+  c:\users\диана\source\repos\lab3.sf\main\main.cpp(15): note: выполняется компиляция ссылки на экземпляр шаблон класс "List<char>"
+c:\users\диана\source\repos\lab3.sf\main\list.cpp(22): warning C4244: return: преобразование "double" в "::size_t", возможна потеря данных
+  c:\users\диана\source\repos\lab3.sf\main\list.cpp(13): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\диана\source\repos\lab3.sf\main\list.cpp(357): note: выполняется компиляция ссылки на экземпляр шаблон функции "size_t List<char>::counting_average_frequancy(List<char>::Node *,List<char>::Node *)"
+  c:\users\диана\source\repos\lab3.sf\main\list.cpp(38): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\диана\source\repos\lab3.sf\main\main.cpp(15): note: выполняется компиляция ссылки на экземпляр шаблон функции "List<char>::List(void)"
+  main.vcxproj -> C:\Users\Диана\source\repos\lab3.SF\Debug\main.exe

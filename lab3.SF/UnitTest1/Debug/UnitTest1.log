@@ -1,0 +1,21 @@
+﻿  stdafx.cpp
+  unittest1.cpp
+c:\users\диана\source\repos\lab3.sf\main\main.cpp(41): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\диана\source\repos\lab3.sf\main\main.cpp(56): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\диана\source\repos\lab3.sf\main\list.cpp(392): error C2065: curf: необъявленный идентификатор
+  c:\users\диана\source\repos\lab3.sf\main\list.cpp(378): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\диана\source\repos\lab3.sf\main\main.cpp(39): note: выполняется компиляция ссылки на экземпляр шаблон функции "void List<char>::make_group(List<char>::Node *,List<char>::Node *,List<char>::Node *)"
+  c:\users\диана\source\repos\lab3.sf\main\main.cpp(15): note: выполняется компиляция ссылки на экземпляр шаблон класс "List<char>"
+c:\users\диана\source\repos\lab3.sf\main\list.cpp(392): error C2227: выражение слева от "->freq" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+  c:\users\диана\source\repos\lab3.sf\main\list.cpp(392): note: тип: unknown-type
+c:\users\диана\source\repos\lab3.sf\main\list.cpp(393): error C2065: curf: необъявленный идентификатор
+c:\users\диана\source\repos\lab3.sf\main\list.cpp(393): error C2227: выражение слева от "->code" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+  c:\users\диана\source\repos\lab3.sf\main\list.cpp(393): note: тип: unknown-type
+c:\users\диана\source\repos\lab3.sf\main\list.cpp(394): error C2065: curf: необъявленный идентификатор
+c:\users\диана\source\repos\lab3.sf\main\list.cpp(394): error C2227: выражение слева от "->next" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+  c:\users\диана\source\repos\lab3.sf\main\list.cpp(394): note: тип: unknown-type
+c:\users\диана\source\repos\lab3.sf\main\list.cpp(395): error C2065: curf: необъявленный идентификатор
+c:\users\диана\source\repos\lab3.sf\main\list.cpp(397): error C2065: curf: необъявленный идентификатор
+c:\users\диана\source\repos\lab3.sf\main\list.cpp(412): warning C4018: <: несоответствие типов со знаком и без знака
+  c:\users\диана\source\repos\lab3.sf\main\list.cpp(411): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\диана\source\repos\lab3.sf\main\main.cpp(59): note: выполняется компиляция ссылки на экземпляр шаблон функции "bool List<char>::compare_str(std::string,std::string,int &)"
